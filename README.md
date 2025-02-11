@@ -48,7 +48,7 @@ Explore Ali Flower Shop's beauty and functionality online!
 
 ### 🔗 Live Website
 
-[Visit Ali Flower Shop Live](Flower Shop)(https://shakibbash.github.io/flower-shop-reponsive/) 
+[Visit Ali Flower Shop Live][Flower Shop](https://shakibbash.github.io/flower-shop-reponsive/) 
 
 ### 💻 Desktop View
 
